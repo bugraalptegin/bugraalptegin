@@ -6,7 +6,6 @@
 <p align="center">
   <img src="images/Start.png" alt="Banner" width="100%">
 </p>
----
 
 ### 🧑‍💻 Men kimman?
 
