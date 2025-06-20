@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="images/start.png" alt="Banner" width="100%">
+  <img src="images/Start.png" alt="Banner" width="100%">
 </p>
 ---
 ### 🧑‍💻 Men kimman?
