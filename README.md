@@ -7,6 +7,7 @@
   <img src="images/Start.png" alt="Banner" width="100%">
 </p>
 ---
+
 ### 🧑‍💻 Men kimman?
 
 Assalomu alaykum! Men — Alptegin Bug'ra. O'zbekiston(Turkiston)lik, mustaqil o‘rganuvchi yosh dasturchiman.  
