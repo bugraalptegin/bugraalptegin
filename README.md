@@ -3,7 +3,10 @@
 <h3 align="center">Data Science va Sun'iy Intellekt sohasida o'z yo'limni boshlayapman</h3>
 
 ---
-
+<p align="center">
+  <img src="images/start.png" alt="Banner" width="100%">
+</p>
+---
 ### 🧑‍💻 Men kimman?
 
 Assalomu alaykum! Men — Alptegin Bug'ra. O'zbekiston(Turkiston)lik, mustaqil o‘rganuvchi yosh dasturchiman.  
